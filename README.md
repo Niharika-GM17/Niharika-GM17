@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Niharika GM
 
 🎓 Artificial Intelligence & Machine Learning Student
-
 💡 Passionate about AI, Machine Learning, Java,Data Structure & Algorithms, SQL, and Software Development.
 
 🌱 Currently learning:
 - Data Structures & Algorithms(Java)
 - Machine Learning
 - Database Management Systems
-
 
 ## 🚀 Projects
 
@@ -36,10 +34,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Niharika-GM17&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika-GM17  &layout=compact)
 
 ## 🎯 Goal
 
