@@ -17,9 +17,9 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://www.linkedin.com/in/niharika-gm-b323b43a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharika-gm-b323b43a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[![Email](niharikagm1708@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharikagm1708@gmail.com)
 
 ## 💻 Tech Stack
 
