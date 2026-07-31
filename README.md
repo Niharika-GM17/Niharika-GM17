@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Niharika GM
 
 🎓 Artificial Intelligence & Machine Learning Student
-💡 Passionate about AI, Machine Learning, Java,Data Structure & Algorithms, SQL, and Software Development.
+💡 Passionate about AI,
+Machine Learning, 
+Java,Data Structure & Algorithms, 
+SQLan d Software Development.
 
 🌱 Currently learning:
 - Data Structures & Algorithms(Java)
