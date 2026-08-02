@@ -22,55 +22,67 @@ AI & ML undergraduate with a strong interest in Software Engineering, Backend De
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-### 📈 Autonomous Streaming Trading System
+<h3> Autonomous Streaming Trading System</h3>
 
-<p>
+<p align="left">
+A real-time intelligent trading platform that continuously processes live market data, generates AI-driven trading signals, and provides explainable insights to support transparent and informed investment decisions.
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><br><br>
-
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<br><br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/><br><br>
-
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<p align="center">
 <a href="YOUR_TRADING_REPO_LINK">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-### 🎓 Agent-Based Learning Path Recommendation System
+<h3> EduFused – Agent-Based Learning Platform</h3>
 
-<p>
+<p align="left">
+An AI-powered adaptive learning platform that creates personalized learning paths, provides intelligent tutoring assistance, and enhances student learning through interactive assessments and real-time progress tracking.
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br><br>
-
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
-
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<a href="YOUR_EDUFUSION_REPO_LINK">
+<p align="center">
+<a href="YOUR_EDUFUSED_REPO_LINK">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
 </tr>
 </table>
-
 
 ---
 ## 💻 Tech Stack
