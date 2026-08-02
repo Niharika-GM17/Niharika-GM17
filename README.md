@@ -10,50 +10,68 @@ Passionate about building scalable software, solving algorithmic problems, and d
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Engineering, Backend Development & Machine Learning
-- 🌱 Currently learning
+-  B.E. in Artificial Intelligence & Machine Learning
+-  Interested in Software Engineering, Backend Development & Machine Learning
+-  Currently learning
   - Data Structures & Algorithms (Java)
   - Machine Learning
   - Database Management Systems
   - REST APIs & Backend Development
-- 🚀 Building projects using Java, Python and SQL
-- 🎯 Preparing for Software Engineering Internships (SAP • Amazon • Microsoft • Google)
+- Building projects using Java, Python and SQL
+
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📧 Spam Mail Detector
-Machine Learning application that classifies emails as Spam or Ham using Natural Language Processing and Scikit-Learn.
+###  Autonomous Streaming Trading System with Explainable AI
+
+A real-time algorithmic trading platform built on a distributed streaming architecture that continuously ingests live market data, computes technical indicators, generates AI-driven trading signals, and provides Explainable AI (XAI) insights for transparent and trustworthy decision-making.
+
+**Key Features**
+-  Real-time market data streaming
+-  Technical indicators (SMA, EMA, RSI, and Volatility)
+-  AI-driven price prediction and trading signals
+-  Explainable AI (SHAP) for model interpretability
+-  Apache Kafka-based streaming pipeline
+-  Automated trading signal generation
 
 **Tech Stack**
 - Python
+- Apache Kafka
+- Flask
 - Scikit-Learn
 - Pandas
 - NumPy
+- SHAP
+- MySQL
 
 ---
 
-### 🔍 Java Search Engine
+###  Agent-Based Learning Path Recommendation System
 
-Implemented a search engine using Java with efficient keyword lookup and optimized searching techniques.
+An AI-powered adaptive learning platform that generates personalized learning paths using intelligent agents, interactive assessments, and performance analytics. The system helps learners master Programming, Data Structures & Algorithms, and Mathematics through customized recommendations.
 
-**Highlights**
-- Fast keyword search
-- Efficient data structures
-- Modular Java architecture
+**Key Features**
+-  AI-powered personalized learning path generation
+- Intelligent agent for adaptive recommendations
+-  AI chatbot for doubt resolution
+- Interactive quizzes and assessments
+-  Progress tracking and learning analytics
 
 **Tech Stack**
-- Java
-- Collections Framework
-- OOP
-
+- Python
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Machine Learning
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Languages
 
@@ -88,7 +106,7 @@ Implemented a search engine using Java with efficient keyword lookup and optimiz
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -100,7 +118,7 @@ Implemented a search engine using Java with efficient keyword lookup and optimiz
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -126,7 +144,7 @@ Implemented a search engine using Java with efficient keyword lookup and optimiz
 
 ---
 
-## 🎯 Career Objective
+##Career Objective
 
 Aspiring Software Engineer with a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Databases, and Machine Learning. Passionate about designing efficient software systems and contributing to impactful products through clean, scalable code.
 
