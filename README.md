@@ -22,54 +22,54 @@ AI & ML undergraduate with a strong interest in Software Engineering, Backend De
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  Autonomous Streaming Trading System with Explainable AI
+<table>
+<tr>
 
-A real-time algorithmic trading platform built on a distributed streaming architecture that continuously ingests live market data, computes technical indicators, generates AI-driven trading signals, and provides Explainable AI (XAI) insights for transparent and trustworthy decision-making.
+<td align="center" width="50%">
 
-**Key Features**
--  Real-time market data streaming
--  Technical indicators (SMA, EMA, RSI, and Volatility)
--  AI-driven price prediction and trading signals
--  Explainable AI (SHAP) for model interpretability
--  Apache Kafka-based streaming pipeline
--  Automated trading signal generation
-
-**Tech Stack**
+### 📈 Autonomous Streaming Trading System
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><br><br>
+
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/><br><br>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-A  real-time algorithmic trading platform built on a distributed streaming architecture...
----
 
-###  EduFused-AI-Powered-Adaptive-Learning-Platform 
+<a href="YOUR_TRADING_REPO_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-An AI-powered adaptive learning platform that generates personalized learning paths using intelligent agents, interactive assessments, and performance analytics. The system helps learners master Programming, Data Structures & Algorithms, and Mathematics through customized recommendations.
+</td>
 
-**Key Features**
--  AI-powered personalized learning path generation
-- Intelligent agent for adaptive recommendations
--  AI chatbot for doubt resolution
-- Interactive quizzes and assessments
--  Progress tracking and learning analytics
+<td align="center" width="50%">
 
-**Tech Stack**
+### 🎓 Agent-Based Learning Path Recommendation System
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br><br>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-An AI-powered adaptive learning platform that generates personalized learning paths...
+
+<a href="YOUR_EDUFUSION_REPO_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 
 ---
