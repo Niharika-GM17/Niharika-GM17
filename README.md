@@ -11,8 +11,7 @@ Passionate about building scalable software, solving algorithmic problems, and d
 ---
 
 ##  About Me
-
-AI & ML engineering student with a strong foundation in Software Engineering, Backend Development, and Data Structures & Algorithms. Proficient in Java, Python, SQL, and Object-Oriented Programming, with hands-on experience building scalable backend applications, REST APIs, and AI-powered software solutions. Passionate about developing enterprise software and solving real-world problems through modern engineering practices.
+AI & ML undergraduate with a strong interest in Software Engineering, Backend Development, and Enterprise Software Development. Passionate about building scalable, secure, and AI-powered applications using Java, Python, SQL, and modern software engineering practices.
 
 
 ---
