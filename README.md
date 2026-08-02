@@ -47,7 +47,7 @@ A real-time intelligent trading platform that continuously processes live market
 </p>
 
 <p align="center">
-<a href="YOUR_TRADING_REPO_LINK">
+<a href="<a href="https://github.com/Niharika-GM17/Autonomous-Streaming-Trading-System" target="_blank">">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -74,7 +74,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 </p>
 
 <p align="center">
-<a href="YOUR_EDUFUSED_REPO_LINK">
+<a href="<a href="https://github.com/Niharika-GM17/EduFused" target="_blank">">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
