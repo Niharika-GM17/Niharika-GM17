@@ -47,7 +47,7 @@ A real-time intelligent trading platform that continuously processes live market
 </p>
 
 <p align="center">
-<a href="<a href="https://github.com/Niharika-GM17/Autonomous-Streaming-Trading-System" target="_blank">">
+<a href="https://github.com/Niharika-GM17/Autonomous-Streaming-Trading-System-with-Explainable-AI" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -56,7 +56,7 @@ A real-time intelligent trading platform that continuously processes live market
 
 <td width="50%" valign="top" align="center">
 
-<h3> EduFused – Agent-Based Learning Platform</h3>
+<h3> EduFused –AI-Powered-Adaptive-Learning-Platform </h3>
 
 <p align="left">
 An AI-powered adaptive learning platform that creates personalized learning paths, provides intelligent tutoring assistance, and enhances student learning through interactive assessments and real-time progress tracking.
@@ -74,7 +74,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 </p>
 
 <p align="center">
-<a href="<a href="https://github.com/Niharika-GM17/EduFused" target="_blank">">
+<a href="https://github.com/Niharika-GM17/EduFused-AI-Powered-Adaptive-Learning-Platform" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
