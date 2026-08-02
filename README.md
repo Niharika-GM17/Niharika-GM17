@@ -14,7 +14,7 @@ Passionate about building scalable software, solving algorithmic problems, and d
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
----
+
 
 ##  About Me
 AI & ML undergraduate with a strong interest in Software Engineering, Backend Development, and Enterprise Software Development. Passionate about building scalable, secure, and AI-powered applications using Java, Python, SQL, and modern software engineering practices.
