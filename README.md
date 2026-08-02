@@ -12,14 +12,7 @@ Passionate about building scalable software, solving algorithmic problems, and d
 
 ##  About Me
 
--  B.E. in Artificial Intelligence & Machine Learning
--  Interested in Software Engineering, Backend Development & Machine Learning
--  Currently learning
-  - Data Structures & Algorithms (Java)
-  - Machine Learning
-  - Database Management Systems
-  - REST APIs & Backend Development
-- Building projects using Java, Python and SQL
+AI & ML engineering student with a strong foundation in Software Engineering, Backend Development, and Data Structures & Algorithms. Proficient in Java, Python, SQL, and Object-Oriented Programming, with hands-on experience building scalable backend applications, REST APIs, and AI-powered software solutions. Passionate about developing enterprise software and solving real-world problems through modern engineering practices.
 
 
 ---
