@@ -85,9 +85,9 @@ An AI-powered adaptive learning platform that creates personalized learning path
 </table>
 
 ---
-## 💻 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -99,7 +99,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### ⚙️ Backend
+### Backend
 
 <p align="left">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -108,7 +108,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -117,7 +117,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
 <p align="left">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -128,7 +128,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### 📡 Streaming & Messaging
+### Streaming & Messaging
 
 <p align="left">
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -136,7 +136,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -147,7 +147,7 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 ---
 
-### 🌐 Web Technologies
+### Web Technologies
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
