@@ -17,7 +17,7 @@ Passionate about building scalable software, solving algorithmic problems, and d
 
 
 ##  About Me
-AI & ML undergraduate with a strong interest in Software Engineering, Backend Development, and Enterprise Software Development. Passionate about building scalable, secure, and AI-powered applications using Java, Python, SQL, and modern software engineering practices.
+AI & ML engineering student with a strong interest in Software Engineering, Backend Development, and Enterprise Software Development. Passionate about building scalable, secure, and AI-powered applications using Java, Python, SQL, and modern software engineering practices.
 
 
 ---
