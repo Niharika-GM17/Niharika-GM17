@@ -179,10 +179,8 @@ An AI-powered adaptive learning platform that creates personalized learning path
 
 </p>
 
----
+___
 
-##Career Objective
 
-Aspiring Software Engineer with a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Databases, and Machine Learning. Passionate about designing efficient software systems and contributing to impactful products through clean, scalable code.
 
 ⭐ *Always learning. Always building.*
